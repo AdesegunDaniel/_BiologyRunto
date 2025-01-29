@@ -1,6 +1,4 @@
-Sure! Here's a comprehensive README file for your BiologyRunTo project:
 
-```markdown
 # BiologyRunTo
 
 BiologyRunTo is a chatbot designed to support high school students in their biology studies and to make learning biology engaging, accessible, and fun. Whether you're tackling genetics, ecology, or cell biology, BiologyRunTo is here to provide instant answers, explanations, and personalized study plans. It's your friendly interface and companion for mastering biology concepts and acing your exams.
@@ -70,6 +68,4 @@ If you have any questions or feedback, feel free to reach out to us at [your-ema
 ---
 
 Happy studying with BiologyRunTo!
-```
 
-Feel free to customize it further to suit your needs!
