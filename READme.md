@@ -1,6 +1,6 @@
 
 # BiologyRunTo
-![alt text](Dataset/biology.png)
+![alt text](Dataset/biology2.png)
 
 BiologyRunTo is a chatbot designed to support high school students in their biology studies and to make learning biology engaging, accessible, and fun. Whether you're tackling genetics, ecology, or cell biology, BiologyRunTo is here to provide instant answers, explanations, and personalized study plans. It's your friendly interface and companion for mastering biology concepts and acing your exams.
 
