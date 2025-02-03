@@ -17,7 +17,11 @@ To get started with BiologyRunTo, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/AdesegunDaniel/_BiologyRunto.git
+   # Make sure you have git-lfs installed (https://git-lfs.com)
+   git lfs install
+   git clone https://huggingface.co/AdesegunDaniel/BiologyRunto
+   # If you want to clone without large files - just their pointers
+   GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/AdesegunDaniel/BiologyRunto
    ```
 2. **Navigate to the project directory**:
    ```bash
